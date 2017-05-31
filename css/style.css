@@ -33,9 +33,9 @@ h1 {
     color: inherit;
     }
 
-.photos {
+.photos h2 {
     padding: 5%;
-    margin: auto;
+    margin: 5%;
     font-family: Oswald;
     font-size: 20px;
     }
