@@ -12,7 +12,6 @@ h1 {
     height: 100%;
     background-size: cover;
     max-width: 100%;
-	color: #FFF;
     }
     
 
@@ -49,6 +48,7 @@ h2 {
 .photo {
     margin: 0 5% 5% 5%;
     background-color: #E3E3E3;
+	width: 45%;
     }
     
 .photo img {
