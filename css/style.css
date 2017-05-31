@@ -20,15 +20,10 @@ h1 {
     max-width: 100%;
     }
     
-.socials{
-	text-align:center;
-    }
-
 .Social {
     text-align: center;
     font-family: Montserrat;
     font-size: 20px;
-    color: #696969;
     }
 	
 ul{
@@ -41,7 +36,13 @@ li {
 	display: inline;
 	
 }
-.Social:hover {
+
+a.Facebook, a.Twitter, a.Instagram:link{
+	color:#696969;
+	
+}
+
+a.Facebook, a.Twitter, a.Instagram:hover {
     color: #000000;
     }
 
