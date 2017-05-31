@@ -26,13 +26,15 @@ h1 {
 
 .Social {
     text-align: center;
-    display: inline-block;
     font-family: Montserrat;
     font-size: 20px;
     color: #696969;
     margin: 10px;
     }
-
+li {
+	display:inline-block;
+	
+}
 .Social:hover {
     color: #000000;
     }
