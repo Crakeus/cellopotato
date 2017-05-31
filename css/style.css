@@ -51,7 +51,7 @@ h2 {
 	width: 45%;
     }
     
-.photo img {
+div.photo {
     margin: 0 auto;
     width: 100%;
     }
