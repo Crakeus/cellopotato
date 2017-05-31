@@ -15,7 +15,7 @@ h1 {
     }
     
 
-.social {
+.Social {
     text-align: center;
     display: inline-block;
     font-family: Montserrat;
@@ -28,7 +28,7 @@ h1 {
     color: #000000;
     }
 
-.social a {
+a {
     text-decoration: none;
     color: inherit;
     }
