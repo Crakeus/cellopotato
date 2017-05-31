@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    border: 0;
+    }
+
+h1 { 
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.header-text {
+    font-family: Roboto, sans-serif;
+    margin: auto;
+    background: url("https://cdn.discordapp.com/attachments/212099186961678336/319341182742167562/16010622_1809199822667213_502041649_o.jpg") no-repeat center top fixed;
+    height: 100%;
+    background-size: cover;
+    max-width: 100%;
+    }
+    
+.socials{
+    text-align: center;
+    }
+    
+.social {
+    text-align: center;
+    display: inline-block;
+    font-family: Montserrat;
+    font-size: 20px;
+    color: #696969;
+    margin: 10px;
+    }
+
+.social:hover {
+    color: #000000;
+    }
+
+.social a {
+    text-decoration: none;
+    color: inherit;
+    }
+
+.photos {
+    padding: 5%;
+    margin: auto;
+    font-family: Oswald;
+    font-size: 20px;
+    }
+    
+h2 {
+    padding: 20px 20px 20px 20px;
+    background-color: #E3E3E3;
+    }
+    
+.photo {
+    margin: 0 5% 5% 5%;
+    background-color: #E3E3E3;
+    }
+    
+.photo img {
+    margin: auto;
+    width: 100%;
+    }
