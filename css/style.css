@@ -35,7 +35,7 @@ ul{
 
 li {
 	display: inline;
-	
+	padding: 10px;
 }
 
 a.Facebook, a.Twitter, a.Instagram {
