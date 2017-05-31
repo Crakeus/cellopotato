@@ -24,11 +24,11 @@ h1 {
     margin: 10px;
     }
 
-.social:hover {
+.Social:hover {
     color: #000000;
     }
 
-a {
+a.social {
     text-decoration: none;
     color: inherit;
     }
