@@ -18,6 +18,7 @@ h1 {
     background: url("https://cdn.discordapp.com/attachments/212099186961678336/319341182742167562/16010622_1809199822667213_502041649_o.jpg") no-repeat center top fixed;
     background-size: cover;
     max-width: 100%;
+	height: 100%;
     }
     
 .Social {
