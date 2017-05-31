@@ -1,4 +1,4 @@
-function main {
+function main() {
 	$('.images').hide();
 	$('.images').fadeIn(3000);
 }
