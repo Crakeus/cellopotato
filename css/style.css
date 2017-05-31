@@ -15,6 +15,7 @@ h1 {
 .header-text {
     font-family: Roboto, sans-serif;
     margin: auto;
+	margin-bottom: 400px;
     background: url("https://cdn.discordapp.com/attachments/212099186961678336/319341182742167562/16010622_1809199822667213_502041649_o.jpg") no-repeat center top fixed;
     background-size: cover;
     max-width: 100%;
@@ -28,7 +29,7 @@ h1 {
     }
 	
 ul{
-	margin: 0 0 300 0;
+	margin: 0;
 	padding: 0;
 	list-style-type: none;
 }
