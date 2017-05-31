@@ -64,10 +64,10 @@ h2 {
 	margin-right: auto;
     background-color: #E3E3E3;
 	width: 45%;
+	display: block;
     }
     
-.photo img {
-    margin-left: auto;
-	margin-right: auto;
-    width: 100%;
-    }
+#Images{
+	text-align: center;
+	
+}
