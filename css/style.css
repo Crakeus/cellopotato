@@ -1,10 +1,3 @@
-*{
-	margin:0;
-	border: 0;
-	
-}
-
-
 h1 { 
     text-align: center;
     font-size: 50px;
@@ -15,7 +8,7 @@ h1 {
 .header-text {
     font-family: Roboto, sans-serif;
     margin: auto;
-    background: url("https://cdn.discordapp.com/attachments/212099186961678336/319341182742167562/16010622_1809199822667213_502041649_o.jpg") no-repeat center top fixed;
+    background: url("https://cdn.discordapp.com/attachments/212099186961678336/319341182742167562/16010622_1809199822667213_502041649_o.jpg") no-repeat center fixed;
     background-size: cover;
     max-width: 100%;
 	height:100%;
@@ -61,7 +54,7 @@ h2 {
     background-color: #E3E3E3;
     }
     
-.photo {
+.Photo {
     margin-left: auto;
 	margin-right: auto;
     background-color: #E3E3E3;
@@ -74,8 +67,9 @@ h2 {
 	
 }
 
-img {
+.Photo img {
     max-width: 100%;
-    height: auto;
+    max-height: 100%;
     width: auto\9; /* ie8 */
+	display: block.
 }
