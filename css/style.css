@@ -20,6 +20,10 @@ h1 {
     max-width: 100%;
     }
     
+.socials{
+	text-align:center;
+	
+    }
 
 .Social {
     text-align: center;
@@ -34,7 +38,7 @@ h1 {
     color: #000000;
     }
 
-a.social {
+.social p a {
     text-decoration: none;
     color: inherit;
     }
