@@ -37,12 +37,12 @@ li {
 	
 }
 
-a.Facebook, a.Twitter, a.Instagram:link{
+a.Facebook:link, a.Twitter:link, a.Instagram:link{
 	color:#696969;
 	
 }
 
-a.Facebook, a.Twitter, a.Instagram:hover {
+a.Facebook:hover, a.Twitter:hover, a.Instagram:hover {
     color: #000000;
     }
 
