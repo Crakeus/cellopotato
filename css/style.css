@@ -60,7 +60,8 @@ h2 {
     }
     
 .photo {
-    margin: 0 5% 5% 5%;
+    margin-left: auto;
+	margin-right: auto;
     background-color: #E3E3E3;
 	width: 45%;
     }
