@@ -126,8 +126,9 @@ a {
 	display: block.
 }
 
-@media only screen and (orientation: portrait){
-	.Photo{
-		width: 90%
-	}
+@media only screen 
+	and (orientation: portrait){
+		.Photo{
+			width: 90%
+		}
 } 
