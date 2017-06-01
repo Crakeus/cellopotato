@@ -125,3 +125,9 @@ a {
 	/* ie8 */
 	display: block.
 }
+
+@media only screen and (orientation: portrait){
+	.Photo{
+		width: 90%
+	}
+} 
