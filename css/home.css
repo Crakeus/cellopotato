@@ -80,6 +80,7 @@ a {
 	padding: 1em;
 	background-color: #f9f9f9;
 }
+
 .Navigation ul {
 	margin: 0;
 	padding: 0;
@@ -108,4 +109,9 @@ a {
 
 #PlaceHolder {
 	border-right: 2px solid #c7c7c7;
+}
+
+.About {
+	min-width: 5%;
+	min-height: 5%;
 }
