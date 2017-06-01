@@ -28,7 +28,7 @@ h1 {
 
 .Profile {
 	border-radius: 90px;
-	border: 5px solid white;
+	border: 5px solid rgba(255, 255, 255, 0.5);
 	vertical-align: middle;
 }
 
@@ -37,14 +37,14 @@ div.heading {
 	text-align: center;
 	line-height: normal;
 	padding-bottom: 1em;
-	background-color: rgba(255, 255, 255, 0.3);
+	background-color: rgba(49, 50, 55, 0.3);
 }
 
 .Social {
 	text-align: center;
 	font-family: Montserrat, sans-serif;
 	font-size: 22px;
-	background-color: rgba(255, 255, 255, 0.3);
+	background-color: rgba(49, 50, 55, 0.3);
     
 }
 
@@ -80,7 +80,7 @@ a {
 /*Navigation Bar*/
 .Navigation {
 	padding: 1em;
-	background-color: #f9f9f9;
+	background-color: #D6D2C6;
 }
 
 .Navigation ul {
