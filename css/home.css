@@ -1,0 +1,86 @@
+* {
+	margin: 0;
+}
+
+h1 {
+	bottom: 50%;
+	font-size: 50px;
+	max-width: 50%;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 10px;
+}
+
+.header-text {
+	font-family: Roboto, sans-serif;
+	margin: 0 auto auto auto;
+	background: url("../CELLOPOTATO/JTown Photo.jpg") no-repeat center fixed;
+	background-size: cover;
+	max-width: 100%;
+	height: 100%;
+	border-bottom: 2px solid black;
+}
+
+.header-text img {
+	max-height: 150px
+}
+
+.heading img {
+	border-radius: 90px;
+	border: 5px solid white;
+	vertical-align: middle;
+}
+
+div.heading {
+	padding-top: 2%;
+	text-align: center;
+	line-height: normal;
+	padding-bottom: 1em;
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+.Social {
+	text-align: center;
+	font-family: Montserrat, sans-serif;
+	font-size: 22px;
+	background-color: rgba(255, 255, 255, 0.3);
+    
+}
+
+.spacing{
+	padding-bottom: 500px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+a.Facebook, a.Twitter, a.Instagram {
+	color: #616161;
+}
+
+a.Facebook:hover, a.Twitter:hover, a.Instagram:hover {
+	color: #000000;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+h2 {
+	margin: 0 auto;
+	font-family: Roboto, sans-serif;
+	font-size: 30px;
+	padding: 1em;
+	background-color: #f9f9f9;
+    text-align: center; 
+}
