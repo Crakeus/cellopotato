@@ -1,12 +1,16 @@
 * {
 	margin: 0;
+
 }
 
 h1 { 
-    text-align: center;
+    bottom: 50%;
     font-size: 50px;
-    padding-top: 50px;
-    padding-bottom: 20px;
+    max-width: 50%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 10px;
 }
 
 .header-text {
@@ -18,7 +22,24 @@ h1 {
 	height:100%;
 	border-bottom: 2px solid black;
     }
-    
+
+.header-text img {
+	max-height: 100px 
+}
+.heading img {
+    border-radius: 90px ;
+    border: 5px solid white; 
+    vertical-align: middle;
+}
+div.heading{
+	padding-top: 2%;
+text-align: center;
+line-height: normal;
+padding-bottom: 1em;
+
+
+}
+
 .Social {
     text-align: center;
     font-family: Montserrat;
