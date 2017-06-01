@@ -23,7 +23,7 @@ h1 {
 }
 
 .header-text img {
-	max-height: 100px
+	max-height: 150px
 }
 
 .heading img {
@@ -37,13 +37,19 @@ div.heading {
 	text-align: center;
 	line-height: normal;
 	padding-bottom: 1em;
+	background-color: rgba(255, 255, 255, 0.3);
 }
 
 .Social {
 	text-align: center;
 	font-family: Montserrat, sans-serif;
 	font-size: 22px;
-	padding-bottom: 400px;
+	background-color: rgba(255, 255, 255, 0.3);
+    
+}
+
+.spacing{
+	padding-bottom: 500px;
 }
 
 ul {
