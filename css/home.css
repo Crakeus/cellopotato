@@ -52,13 +52,13 @@ div.heading {
 	padding-bottom: 500px;
 }
 
-ul {
+.Social ul {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
 }
 
-li {
+.Social ul li {
 	display: inline;
 	padding: 10px;
 }
