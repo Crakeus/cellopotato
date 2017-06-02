@@ -2,6 +2,7 @@
 	margin: 0;
 }
 
+/*Top Heading*/
 h1 {
 	bottom: 50%;
 	font-size: 50px;
@@ -45,7 +46,7 @@ div.heading {
 	font-family: Montserrat, sans-serif;
 	font-size: 22px;
 	background-color: rgba(49, 50, 55, 0.3);
-    padding: 1em;
+    padding-bottom: 1em;
 }
 
 .spacing{
