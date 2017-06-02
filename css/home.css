@@ -116,7 +116,7 @@ a {
 	float: left;
 	background-color: #CACFD6;
 	text-align: center;
-	border-radius: 10px;
+	border-bottom: 3px solid #CACFD6;
 }
 
 .About img {
