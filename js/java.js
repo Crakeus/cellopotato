@@ -1,5 +1,5 @@
-function main() {
+$(document).ready(function(){
 
-}
+   // jQuery methods go here...
 
-$(document).ready(main);
+});
