@@ -109,12 +109,10 @@ a {
 }
 
 .About {
-	margin: 60px 3em;
+	margin: 2em auto;
 	padding: 2em 1em;
-	width: 15%;
+	width: 80%;
 	min-width: 200px;
-	float: left;
-	background-color: #CACFD6;
 	text-align: center;
 	border-bottom: 3px solid #CACFD6;
 }
@@ -128,4 +126,5 @@ a {
 	display: inline-block;
 	margin-top: 2em;
 	font-family: Montserrat, sans-serif;
+	padding: 2em;
 }
