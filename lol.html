@@ -7,11 +7,11 @@
 <body>
 	<h1>Summoner Spy</h1>
 <?php
-	$apiKey = '***YOUR API KEY HERE***';
-	$summonerName = 'lolnexus';
+	$apiKey = 'cf1476c5-f500-4f4d-92aa-0929a43abad9';
+	$summonerName = 'TrebleinBase';
  
 	// get the basic summoner info
-	$result = file_get_contents('https://na.api.pvp.net/api/lol/na/v1.4/summoner/by-name/' . $summonerName . '?api_key=' . $apiKey);
+	$result = file_get_contents('/lol/summoner/v3/summoners/by-name/' . $summonerName . '?api_key=' . $apiKey);
 	$summoner = json_decode($result)->$summonerName;
 	// var_dump($summoner);
 ?>	
