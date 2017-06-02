@@ -126,6 +126,7 @@ a {
 	width: auto\9;
 	/* ie8 */
 	display: block.
+	padding: 1em;
 }
 
 @media only screen 
