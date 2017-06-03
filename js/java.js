@@ -5,7 +5,7 @@ $(document).ready(function(){
         type: 'GET',
 		url: 'https://na1.api.riotgames.com/lol/summoner/v3/summoners/by-name/Cl%C3%A0ssic?api_key=cf1476c5-f500-4f4d-92aa-0929a43abad9',
 		success: function(data) {
-			console.log('success', data);
+			$("p").text(data);
 		}
 	
     });
