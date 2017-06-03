@@ -2,10 +2,12 @@ $(document).ready(function(){
 
    // jQuery methods go here...
     $.ajax({
-        url: "http://rest-service.guides.spring.io/greeting"
-    }).then(function(data) {
-       $('.greeting-id').append(data.id);
-       $('.greeting-content').append(data.content);
+        type: 'GET',
+		url: 'http://rest.learncode.academy/',
+		success: function(data) {
+			console.log('success', data);
+		}
+	
     });
 
 });
